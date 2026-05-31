@@ -67,7 +67,7 @@ Aquí se encuentra el trabajo realizado hasta ahora, incluyendo la estructura de
 ## Feching de datos
 ![cap9](doc/cap9Veliz.png)
 ## Renderizado de información
-![cap10](cdoc/ap10Veliz.png)
+![cap10](doc/cap10Veliz.png)
 ![cap10](doc/cap10Veliz10.png)
 
 
