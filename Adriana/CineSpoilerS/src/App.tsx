@@ -1,7 +1,7 @@
 function App() {
   return (
-    <main>
-      <h1>CineSpoilerS</h1>
+    <main className="flex min-h-screen items-center justify-center bg-black text-white">
+      <h1 className="text-5xl font-bold">CineSpoilerS</h1>
     </main>
   );
 }
