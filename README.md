@@ -8,26 +8,35 @@ Aquí se encuentra el trabajo realizado hasta ahora, incluyendo la estructura de
 
 ## Evidencias
 
-- Jilder Dionisio
+## Jilder Dionisio
+
+- Evidencia 1
 
 ![cap1](doc/cap1.png)
 
+-  Evidencia 2
+
 ![cap2](doc/cap2.png)
+
+- Evidencia 3
 
 ![cap3](doc/cap3.png)
 
+- Evidencia 4
+
 ![cap4](doc/cap4.png)
 
+- Evidencia 5
+
 ![cap5](doc/cap5.png)
+
+- Evidencia 6
 
 ![cap6](doc/cap6.png)
 
 ## Naomi Veliz
 
-- Naomi Veliz
+- Naom
 
 ## Estructura
 
-- `doc/` - Documentación
-- `Jilder_Dionisio/` - Carpeta de Jilder Dionisio
-- `NaomiVeliz/` - Carpeta de Naomi Veliz
