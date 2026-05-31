@@ -1,4 +1,4 @@
-import { Badge } from './components/ui/badge'
+import { Button } from './components/ui/button'
 
 function App() {
   return (
@@ -6,7 +6,7 @@ function App() {
       <div className="mx-auto max-w-6xl px-6 py-8">
         <div className="flex flex-col items-start gap-3">
           <h1 className="text-5xl font-semibold tracking-tight text-violet-600">CineSpoilers</h1>
-          <Badge variant="primary">Spoilers ocultos</Badge>
+          <Button variant="primary">Spoilers ocultos</Button>
         </div>
       </div>
     </main>
