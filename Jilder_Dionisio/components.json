@@ -1,5 +1,6 @@
 {
   "components": [
-    "src/components/ui/button.tsx"
+    "src/components/ui/button.tsx",
+    "src/components/ui/badge.tsx"
   ]
 }
