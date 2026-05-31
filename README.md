@@ -45,7 +45,29 @@ Aquí se encuentra el trabajo realizado hasta ahora, incluyendo la estructura de
 
 ## Naomi Veliz
 
-- Naom
+![cap1](doc/cap1Veliz.png)
+## Limpiando proyecto
+![cap2](doc/cap2Veliz.png)
+![cap2](doc/cap2Veliz2.png)
+## Instalando tailwind
+![cap3](doc/cap3Veliz.png)
+![cap3](doc/cap3Veliz3.png)
+## installar path y agregar soporte para el alias 
+![cap4](doc/cap4Veliz.png)
+![cap4](doc/apVeliz4.png)
+## Configurar Alias
+![cap5](doc/cap5Veliz.png)
+## Instalar Shadcn/UI
+![cap6](doc/cap6Veliz.png)
+## Configurar Shadcn
+![cap7](doc/cap7Veliz.png)
+![cap7](doc/cap7Veliz7.png)
+## Instalar Axios
+![cap8](doc/cap8Veliz.png)
+## Feching de datos
+![cap9](doc/cap9Veliz.png)
+## Renderizado de información
+![cap10](cdoc/ap10Veliz.png)
+![cap10](doc/cap10Veliz10.png)
 
-## Estructura
 
