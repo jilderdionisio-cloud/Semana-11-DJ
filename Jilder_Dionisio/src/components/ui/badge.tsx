@@ -2,17 +2,20 @@ import React from 'react'
 
 type BadgeProps = {
   children: React.ReactNode
-  variant?: 'primary' | 'secondary'
+  variant?: 'primary' | 'secondary' | 'success'
+  className?: string
 }
 
-export function Badge({ children, variant = 'primary' }: BadgeProps) {
-  const base = 'inline-flex items-center rounded-full px-4 py-2 text-sm font-semibold'
-  const colors =
-    variant === 'primary'
-      ? 'bg-violet-500 text-white shadow-sm'
-      : 'bg-slate-200 text-slate-950'
+export function Badge({ children, variant = 'primary', className = '' }: BadgeProps) {
+  const base =
+    'inline-flex items-center rounded-md border px-2.5 py-1 text-xs font-medium shadow-sm'
+  const variants = {
+    primary: 'border-rose-200 bg-rose-50 text-rose-700',
+    secondary: 'border-stone-200 bg-white text-stone-700',
+    success: 'border-emerald-200 bg-emerald-50 text-emerald-700',
+  }
 
-  return <span className={`${base} ${colors}`}>{children}</span>
+  return <span className={`${base} ${variants[variant]} ${className}`}>{children}</span>
 }
 
 export default Badge

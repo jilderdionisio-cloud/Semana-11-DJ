@@ -34,6 +34,15 @@ Aquí se encuentra el trabajo realizado hasta ahora, incluyendo la estructura de
 
 ![cap6](doc/cap6.png)
 
+- Evidencia 7
+
+![cap7](doc/cap7.png)
+
+- Evidencia 8 
+
+![cap8](doc/cap8.png)
+
+
 ## Naomi Veliz
 
 - Naom
