@@ -54,7 +54,7 @@ Aquí se encuentra el trabajo realizado hasta ahora, incluyendo la estructura de
 ![cap3](doc/cap3Veliz3.png)
 ## installar path y agregar soporte para el alias 
 ![cap4](doc/cap4Veliz.png)
-![cap4](doc/apVeliz4.png)
+![cap4](doc/cap4Veliz4.png)
 ## Configurar Alias
 ![cap5](doc/cap5Veliz.png)
 ## Instalar Shadcn/UI
