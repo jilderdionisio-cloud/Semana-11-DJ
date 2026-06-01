@@ -1,7 +1,13 @@
+import { Button } from "./components/ui/button";
+
 function App() {
   return (
-    <main className="flex min-h-screen items-center justify-center bg-black text-white">
+    <main className="flex min-h-screen flex-col items-center justify-center gap-4 bg-black text-white">
       <h1 className="text-5xl font-bold">CineSpoilerS</h1>
+
+      <Button className="bg-white text-black hover:bg-zinc-200">
+        Get Started
+      </Button>
     </main>
   );
 }
