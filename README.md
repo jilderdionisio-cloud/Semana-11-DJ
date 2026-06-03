@@ -8,7 +8,8 @@ Aquí se encuentra el trabajo realizado hasta ahora, incluyendo la estructura de
 
 ## Evidencias
 
-## Jilder Dionisio
+--------------------------------------------------
+# Jilder Dionisio
 
 - Evidencia 1
 
@@ -42,8 +43,8 @@ Aquí se encuentra el trabajo realizado hasta ahora, incluyendo la estructura de
 
 ![cap8](doc/cap8.png)
 
-
-## Naomi Veliz
+--------------------------------------------------
+# Naomi Veliz
 
 ![cap1](doc/cap1Veliz.png)
 ## Limpiando proyecto
@@ -70,4 +71,39 @@ Aquí se encuentra el trabajo realizado hasta ahora, incluyendo la estructura de
 ![cap10](doc/cap10Veliz.png)
 ![cap10](doc/cap10Veliz10.png)
 
+--------------------------------------------------
+# Adriana Chinchayhuara
 
+## Creación del proyecto
+
+![cap1](doc/cap1Adriana.jpeg)
+
+## Limpieza del proyecto
+
+![cap2](doc/cap2Adriana.jpeg)
+
+## Instalar Tailwind 
+
+![cap3](doc/cap3Adriana.jpeg)
+
+## Configurando Alias 
+
+![cap4](doc/cap4Adriana.jpeg)
+
+## Instalando Shadcn
+
+![cap5](doc/cap5Adriana.jpeg)
+![cap6](doc/cap6Adriana.jpeg)
+
+## Instalar AXIOS 
+
+![cap7](doc/cap7Adriana.jpeg)
+
+## Fetching de Datos 
+
+![cap8](doc/cap8Adriana.jpeg)
+
+## Renderizar la Información 
+
+![cap9](doc/cap9Adriana.jpeg)
+![cap10](doc/cap10Adriana.jpeg)
